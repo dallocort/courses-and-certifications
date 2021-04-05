@@ -17,5 +17,5 @@ Courses|Credentials
 [SQL & PostgreSQL for Beginners: Become an SQL Expert](https://www.udemy.com/course/sql-and-postgresql-for-beginners/) | [see credential](https://www.udemy.com/certificate/UC-4b86f7ba-569b-4e13-b068-8c02c97a7f5b/)<br/>
 [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) | [see credential](https://www.udemy.com/certificate/UC-46YXDME5/)<br/>
 [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/) | [see credential](https://www.udemy.com/certificate/UC-MR2R61LM/)<br/>
-[The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | [see credential](https://www.udemy.com/certificate/UC-46YXDME5/)<br/>
+[The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | [see credential](https://www.udemy.com/certificate/UC-APAEKGJZ/)<br/>
 
