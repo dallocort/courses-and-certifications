@@ -18,4 +18,4 @@ Courses|Credentials
 [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) | [see credential](https://www.udemy.com/certificate/UC-46YXDME5/)<br/>
 [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/) | [see credential](https://www.udemy.com/certificate/UC-MR2R61LM/)<br/>
 [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | [see credential](https://www.udemy.com/certificate/UC-46YXDME5/)<br/>
-[The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | [see credential](https://www.udemy.com/certificate/UC-APAEKGJZ/)<br/>
+
