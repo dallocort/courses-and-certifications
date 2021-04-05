@@ -1,7 +1,6 @@
 
 # Academic Education
-Bachelor's degree of Information Systems. Universidade de Mogi das Cruzes (Brazil) site. 2015-2018 (4 years). 📎 here
-Information Technology. Colégio Cetés (Brazil) site. 2013-2014 (1 year and half). 📎 here
+Master's Degree, Logistic. University of Belgrade (Serbia), Faculty of Transport and Traffic Engineering.
 <br/><br/>
 
 # Certification
