@@ -1,6 +1,6 @@
 
 # Academic Education
-Master's Degree, Logistic. University of Belgrade (Serbia), Faculty of Transport and Traffic Engineering.
+Master's degree in Logistics, University of Belgrade (Serbia), [Faculty of Transport and Traffic Engineering](https://www.sf.bg.ac.rs/index.php/en/).
 <br/><br/>
 
 # Certification
