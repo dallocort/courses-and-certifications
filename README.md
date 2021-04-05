@@ -1,9 +1,9 @@
 
-# Academic Education
+# Academic Education :mortar_board:
 Master's degree in Logistics, University of Belgrade (Serbia), [Faculty of Transport and Traffic Engineering](https://www.sf.bg.ac.rs/index.php/en/).
 <br/><br/>
 
-# Certification
+# Certification :medal_sports:
 
 “I am still learning.”— Michelangelo
 <br/><br/>
