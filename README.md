@@ -1,6 +1,6 @@
 
 # Academic Education :mortar_board:
-Master's degree in Logistics, [University of Belgrade (Serbia)](http://bg.ac.rs/en/index.php), [Faculty of Transport and Traffic Engineering](https://www.sf.bg.ac.rs/index.php/en/).
+Master's degree in Logistics, [University of Belgrade (Serbia)](http://bg.ac.rs/en/index.php), [Faculty of Transport and Traffic Engineering](https://www.sf.bg.ac.rs/index.php/sr-yu/).
 <br/><br/>
 
 # Certification :medal_sports:
