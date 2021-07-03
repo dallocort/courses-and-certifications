@@ -12,7 +12,7 @@ Master's degree in Logistics, [University of Belgrade (Serbia)](http://bg.ac.rs/
 
 Courses|Credentials
 -------|-----------
-[RESTful Web Services, Java, Spring Boot, Spring MVC and JPA](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/) | -
+[RESTful Web Services, Java, Spring Boot, Spring MVC and JPA](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/) | [see credential](https://www.udemy.com/certificate/UC-ab627929-06f5-4d27-9254-91413a4b6ab6/)
 [Java Spring Tutorial Masterclass - Learn Spring Framework 5](https://www.udemy.com/course/java-spring-framework-masterclass/) | [see credential](https://www.udemy.com/certificate/UC-92f448d9-eee6-4847-a363-e8acc16c194c/)
 [Java 9 New Features In Simple Way : JShell, JPMS and More](https://www.udemy.com/course/java-9-new-features-in-simple-way-jshell-jpms-and-more/) | [see credential](https://www.udemy.com/certificate/UC-afde340d-4491-4dd5-bb1e-af047d53d5d0/)
 [Java 8 New Features In Simple Way](https://www.udemy.com/course/java-8-new-features-in-simple-way/) | [see credential](https://www.udemy.com/certificate/UC-1987ce00-86b4-4964-a0a4-8fbe1d401b71/)
