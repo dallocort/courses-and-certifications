@@ -25,7 +25,7 @@ Courses|Credentials
 
 Courses|Credentials
 -------|-----------
-[The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | [see credential](https://www.udemy.com/certificate/UC-APAEKGJZ/)
+[The Complete JavaScript Course 2019: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/) | [see credential](https://www.udemy.com/certificate/UC-APAEKGJZ/)
 
 <br/>
 
