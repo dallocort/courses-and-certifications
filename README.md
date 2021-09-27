@@ -25,7 +25,7 @@ Courses|Credentials
 
 Courses|Credentials
 -------|-----------
-In progress: [Vue - The Complete Guide (w/ Router, Vuex, Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) | -
+In progress: [Vue - The Complete Guide (w/ Router, Vuex, Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) | [see credential](https://www.udemy.com/certificate/UC-ab12d408-6f0d-494c-aaf3-f260d862f2ab/)
 In progress: [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | -
 [The Complete JavaScript Course 2019: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/) | [see credential](https://www.udemy.com/certificate/UC-APAEKGJZ/)
 
